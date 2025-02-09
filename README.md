@@ -1,1 +1,3 @@
 # kinoarea-nextJs
+
+tg : @virtuoze
